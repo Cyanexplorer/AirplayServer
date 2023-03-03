@@ -1,10 +1,10 @@
-package com.fang.myapplication.player;
+package com.fang.airplayserver.player;
 
 import android.media.AudioFormat;
 import android.media.AudioManager;
 import android.media.AudioTrack;
 
-import com.fang.myapplication.model.PCMPacket;
+import com.fang.airplayserver.model.PCMPacket;
 
 import java.util.ArrayList;
 import java.util.Collections;

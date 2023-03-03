@@ -1,11 +1,11 @@
-package com.fang.myapplication.player;
+package com.fang.airplayserver.player;
 
 import android.media.MediaCodec;
 import android.media.MediaFormat;
 import android.util.Log;
 import android.view.Surface;
 
-import com.fang.myapplication.model.NALPacket;
+import com.fang.airplayserver.model.NALPacket;
 
 import java.nio.ByteBuffer;
 import java.util.ArrayList;

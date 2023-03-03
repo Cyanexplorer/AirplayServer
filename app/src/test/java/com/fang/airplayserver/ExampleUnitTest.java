@@ -1,4 +1,4 @@
-package com.fang.myapplication;
+package com.fang.airplayserver;
 
 import org.junit.Test;
 

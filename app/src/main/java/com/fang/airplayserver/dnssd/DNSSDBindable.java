@@ -1,4 +1,4 @@
-package com.fang.myapplication.dnssd;
+package com.fang.airplayserver.dnssd;
 
 import android.content.Context;
 

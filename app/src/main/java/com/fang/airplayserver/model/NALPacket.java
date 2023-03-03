@@ -1,4 +1,4 @@
-package com.fang.myapplication.model;
+package com.fang.airplayserver.model;
 
 public class NALPacket {
     public byte[] nalData = null;

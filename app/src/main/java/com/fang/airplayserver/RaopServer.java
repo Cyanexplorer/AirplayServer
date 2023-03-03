@@ -1,13 +1,13 @@
-package com.fang.myapplication;
+package com.fang.airplayserver;
 
 import android.util.Log;
 import android.view.SurfaceHolder;
 import android.view.SurfaceView;
 
-import com.fang.myapplication.model.NALPacket;
-import com.fang.myapplication.model.PCMPacket;
-import com.fang.myapplication.player.AudioPlayer;
-import com.fang.myapplication.player.VideoPlayer;
+import com.fang.airplayserver.model.NALPacket;
+import com.fang.airplayserver.model.PCMPacket;
+import com.fang.airplayserver.player.AudioPlayer;
+import com.fang.airplayserver.player.VideoPlayer;
 
 public class RaopServer implements SurfaceHolder.Callback {
 
